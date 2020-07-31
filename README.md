@@ -42,31 +42,42 @@ All points of the Technology Code of Practice must be considered. Where legacy t
 
 (Individual Code items are set out in greater detail below.)
 
-### 1. Define user needs
+### 0. Meet the Digital Service Standard
 
-Understand your users and their needs. Develop knowledge of your users and what that means for your technology project or programme.
+If you are building a Digital Service, make sure you meet the Digital Service Standard.
+
+### 1. Describe user needs informed by ongoing research
+
+Describe your ongoing user research, your understanding of user needs and what that means for your technology project or program.
 
 ### 2. Make things accessible
 
-Make sure your technology, infrastructure and systems are accessible for users.
+Make sure your technology, infrastructure and systems are accessible for users, regardless of region, device, or channel.
 
-### 3. Be open and use open source
+### 3. Follow latest guidance to integrate and adapt technology
 
-Publish your code and use open source to improve transparency, flexibility and accountability.
+Your technology should adapt to future demands and work with existing technologies, processes and infrastructure in your organization.
 
-### 4. Make use of open standards
+### 4. Work in the open and share your technology
 
-Build technology that uses open standards to ensure your technology works and communicates with other technology, and can easily be upgraded and expanded.
+Promote good practice by publishing your code openly and sharing your services, data and software components. 
 
-### 5. Use cloud intelligently
+### 5. Reuse technology and use open source
 
-Use public cloud intelligently, as stated in the government’s in-development cloud policy. [Note: Adapted from the UK's "cloud first" practice and policy.]
+Improve transparency and accountability while reducing duplication by reusing technology and using open source.
 
-### 6. Make things secure
+### 6. Make use of open standards
+
+Build technology that uses open standards to ensure your technology works and communicates with other technology, and is easily upgraded and expanded.
+
+### 7. Use cloud intelligently
+Use public cloud intelligently as stated in the government’s cloud policy. [Note: Adapted from the UK's "cloud first" practice and policy.]
+
+### 8. Make things secure
 
 Keep systems and data safe with the appropriate level of security.
 
-### 7. Make privacy integral
+### 9. Make privacy integral
 
 Make sure citizens’ rights are protected by integrating privacy as an essential part of your system.
 
@@ -80,7 +91,7 @@ Your technology should work with existing technologies, processes and infrastruc
 
 ### 10. Make better use of data
 
-Consider how to minimise data collection and reuse data to avoid duplication of datasets.
+Consider how to minimize data collection and reuse data to avoid duplication of datasets.
 
 ### 11. Define your purchasing strategy
 
@@ -92,18 +103,23 @@ If you are building a service as part of your technology initiative, you will al
 
 ## The Technology Code of Practice (Detailed)
 
-### 1. Define user needs
+### 0. Meet the Digital Service Standard
 
-Understand your users and their needs. Develop knowledge of your users and what that means for your technology project or programme.
+If you are building a Digital Service, make sure you meet the Digital Service Standard.
+
+### 1. Describe user needs informed by ongoing research
+
+Describe your ongoing user research, your understanding of user needs and what that means for your technology project or program.
 
 To meet point 1 of the Technology Code of Practice you must show you understand your users and their needs.
 
-You’ll have to explain how you’re doing this as part of the digital investment process.  
+You’ll have to explain how you’re doing this as part of the digital investment process.
 
 #### How user research will help your initiative
 
 Doing user research will help your technology initiative by identifying:
 
+● how your users define value
 ●	any risks to introducing or changing the technology  
 ●	the skills needed to deliver, use and manage the technology  
 ●	the technologies that service support teams will need for their end users  
@@ -125,14 +141,13 @@ Find out more about:
 ●	service assessments  
 ●	assisted digital support  
 
-
 ### 2. Make things accessible
 
-Make sure your technology, infrastructure and systems are accessible for users.  
+Make sure your technology, infrastructure and systems are accessible for users, regardless of region, device, or channel.
 
-To meet point 2 of the Technology Code of Practice your plan or design must show how you’re making technology inclusive.  
+To meet point 2 of the Technology Code of Practice your plan or design must show how you’re making technology inclusive.
 
-You’ll have to explain how you’re doing this as part of the digital investment process.  
+You’ll have to explain how you’re doing this as part of the digital investment process.
 
 #### How making things accessible and inclusive will help your initiative
 
@@ -158,31 +173,72 @@ Your research must include users with a range of abilities. Make sure your techn
 ●	Meeting the accessibility standard  
 ●	Meeting compatibility with assistive technologies  
 
-### 3. Be open and use open source
+### 3. Follow latest guidance to integrate and adapt technology
 
-Publish your code openly and use open source technology to improve transparency, flexibility and accountability.  
+Your technology should adapt to future demands and work with existing technologies, processes and infrastructure in your organization.
 
-To meet point 3 of the Technology Code of Practice your plan or design must show you have considered the use of open source and publishing your code openly.  
+To meet point 3 of the Technology Code of Practice your plan or design must show how your technology initiative integrates into your organization.
 
-You’ll have to explain how you’re meeting point 3 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.  
+You’ll have to explain how you’re doing this as part of the digital investment process.
 
-#### How open source differs to open standards  
 
-Open source is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone.  
+#### How integration helps your initiative . 
 
-Open standards are a set of rules designed to do a specific job in technology. They are also designed collaboratively and free to use. Open standards allow open source and closed source (proprietary) software to work together.  
+Good integration means making sure your new technology works with legacy solutions without limiting your ability to adapt to future demands or upgrade systems.  
 
-#### How using open source will help your initiative  
+Your initiative will benefit from:  
 
-Give equal consideration to open source software when you choose technology.  
+●	Less risk to your infrastructure as integration planning will discover compatibility gaps in the new technology  
+●	Less downtime on your regular processes when you upgrade or amend them  
+●	Systems which enforce built-in redundancy of services, minimising single points of failure  
+●	Lower long-term support costs  
 
-Your technology initiative could benefit from:  
+#### Fitting new technology into your organisation  
 
-●	Solving common problems with readily available open source technology  
-●	More time and resource for customised solutions to solve the rare or unique problems  
-●	Lower implementation and running costs  
+Each organisation’s technology and infrastructure will have services and issues that are unique. There are some common elements to consider when fitting new technology into your current or legacy system, including:  
 
-Be aware that open source software is not completely free so take into account the total cost of migrating, including exit and transition costs
+●	How different aspects of your organisation’s IT operating model come together, including business areas such as processes, governance, service support and service delivery  
+●	How the new technology will work with your service management  
+●	What skills and capabilities your organisation needs to deliver, support and continuously improve the new technology you’ll purchase  
+
+To optimise systems integration consider:  
+
+●	Adopting a continuous integration model so you can solve smaller issues iteratively (this is generally easier and cheaper than waiting to test everything at the end of an initiative)  
+●	Designing your system using independently developed components that can easily work together  
+●	Building a system architecture early in the program to describe your current or future system and mapping hardware and software components  
+●	Defining a configuration management process  
+●	Doing component-level testing to make sure integration is possible  
+●	Doing regular integration and stress testing to track progress and make sure the system remains robust  
+
+If you have chosen to use a systems integrator you should make sure they meet all of your requirements.  
+
+When managing system processes and service management integration aim to:  
+
+●	Define the governance, processes, tools and information required to meet business needs and user needs  
+●	Map and track the interdependencies between the infrastructure and the services running on it  
+●	Provide support to the infrastructure and make sure you have the flexibility to add hardware and software  
+●	Be flexible so that processes can incorporate legacy and new infrastructure, including the use of cloud services  
+●	Understand the probable lifespan of your technologies (being aware of expiry and renewal timings) and create a roadmap showing your plan for retiring legacy systems  
+
+System integration is important for the overall network performance and for considering your organisation’s service management.  
+
+Service management depends on how your current infrastructure is managed, what new technology is being integrated and what the longer-term business objectives are for IT in the organisation.  
+
+#### Related Guides  
+
+List of [UK] guides on the topics of:  
+
+●	Networking  
+●	Legacy  
+●	Buying technology  
+
+### 4. Work in the open and share your technology
+
+Promote good practice by publishing your code openly and sharing your services, data and software components. 
+
+To meet point 4 of the Technology Code of Practice your plan or design must show you have considered publishing your code openly and sharing your technology.
+
+You’ll have to explain how you’re meeting point 3 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.
 
 #### How being open will help your initiative  
 
@@ -193,241 +249,17 @@ Publishing your code and data from the beginning of your technology initiative w
 ●	Clarity around data that needs to remain protected and how that’s achieved  
 ●	Suggestions about how the code can be improved or where security can be improved  
 
+#### Sharing solutions from your initiative
+
+When building a solution consider that others may want to use it in the future. It’s easier and cheaper to build this possibility in at the start than at the end. Consider the general application, not just your own departmental application, of the specific problem you are solving. Other initiatives can benefit if you share a solution to a common problem.
+
 #### Publishing code  
 
 If your technology initiative includes code in its development, refer to the Service Manual section on making source code open and reusable.
 
-#### Using open source  
-
-The following questions are some of the points to consider when choosing technology and evaluating whether you want a proprietary or open source solution:  
-
-1.	Does the solution do what you need it to do?  
-2.	Does the solution meet the needs of your end users?  
-3.	What are the solution’s initial and ongoing costs?  
-4.	Will the staff need training or will expert users need to be employed to manage the solution?  
-5.	If the solution is open source, how widely is the code already adopted? How mature is it?  
-6.	Does the solution offer the level of support needed?  
-7.	How well is the solution maintained and is there evidence of further development?  
-8.	How reliable is the solution? This is hard to measure, but one way is to assess it by looking at its maturity.  
-9.	How well does the solution perform? Can you analyse performance data or reviews?  
-10.	How well will the solution scale to meet your needs?  
-11.	Does the solution’s security meet your needs and does it have regular security patches?  
-12.	Is the solution flexible? You can customise the solution to fully meet your needs but be aware this can make future updates and security patches hard to implement.  
-13.	Will the solution work with your other technology?  
-14.	Is the solution’s licence acceptable to your organisation’s business requirements? Are there any restrictions or gaps that would cause issues?  
-15.	Is the solution’s warranty acceptable and is there an option to buy one?  
-
-#### Related guides and sources [Note: From UK context, need BC versions]
-
-Open Source Initiative  
-[Choosing technology] (https://www.gov.uk/service-manual/technology/choosing-technology-an-introduction)  
-Making new source code open by default  
-[Ministry of Justice case study - why we code in the open] (https://mojdigital.blog.gov.uk/2017/02/21/why-we-code-in-the-open/)  
-[GDS case study - making the register to vote code open] (https://gdstechnology.blog.gov.uk/2016/01/26/working-out-how-to-open-up-the-register-to-vote-code/)  
-
-### 4. Make use of open standards  
-
-Build technology that uses open standards to ensure your technology works and communicates with other technology, and is easily upgraded and expanded.  
-
-To meet point 4 of the Technology Code of Practice your plan or design must show you are using or have considered using open standards and data. You must make your technology initiative as interoperable as possible.  
-
-You’ll have to explain how you’re doing this as part of the digital investment process.  
-
-#### How open source differs to open standards  
-Open source is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone.  
-
-Open standards are a set of rules designed to do a specific job in technology. They are also designed collaboratively and free to use. Open standards allow open source and closed source (proprietary) software to work together.  
-
-#### How open standards help your initiative  
-
-Open standards can be used when designing individual elements of the solution.  
-
-Using open standards means you:  
-
-●	Save time and money by reusing things that are already available  
-●	Increase compatibility with all stakeholders  
-●	Potentially open up the range of companies you can purchase from as more of them are likely to use the same standard as you  
-●	Can move between different technologies when you need to and don’t get locked into contracts  
-
-#### Build interoperability into your initiative . 
-
-Build flexibility into your technology by:  
-
-●	Using open standards, complying with any that are compulsory for use in government, unless you’ve been granted an exemption  
-●	Being clear what data your systems will hold, and which identifiers are in place to make sure the data can be used effectively  
-●	Avoiding the duplication of data, and being very clear about their approved source  
-●	Using RESTful APIs for integration where possible  
-●	Publishing your APIs on the [BC Government API Registry] (https://catalogue.data.gov.bc.ca/group/bc-government-api-registry) to make them reusable    
-
-#### Related guides
-
-[API Guidelines] (https://devhub-static-test-devhub-test.pathfinder.gov.bc.ca/Data-and-APIs/BC-Government-API-Guidelines?intention=LOGIN#error=login_required)  
-[API Registry] (https://catalogue.data.gov.bc.ca/group/bc-government-api-registry)  
-Open Standard Principles  
-Open Standards for government  
-About APIs  
-
-### 5. Use cloud intelligently  
-
-Use public cloud intelligently as stated in the government’s cloud  policy.  
-
-To meet point 5 of the Technology Code of Practice your plan or design must show you have considered using the public cloud as stated in the government’s cloud  policy.  
-
-You’ll have to explain how you’re meeting point 5 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.  
-
-#### Summary description of cloud computing  
-
-Cloud computing is a way of storing and retrieving data and software over the internet. The 3 main service areas are:  
-
-●	Software-as-a-service (SaaS), which is the use of applications over the internet  
-●	Platform-as-a-service (PaaS), which provides the platform for developing, testing and deploying your applications over the internet  
-●	Infrastructure-as-a-service (IaaS), which provides the physical technology infrastructure/network virtually over the internet without the need for you to buy your own hardware  
-
-#### How adopting cloud first will help your initiative  
-
-You can benefit from adopting an intelligent cloud approach because:  
-
-●	You can avoid upfront investments in your infrastructure, reducing overall costs  
-●	There’s greater flexibility to trial new services or make changes, with minimal cost  
-●	Pricing models are scaleable - instead of building for the maximum usage you buy for less usage and increase or decrease as appropriate  
-●	It will be easier to meet the [Greening Government Commitments] - cloud facilities typically try to use server space and power in the most efficient way possible  
-●	Upgrades and security patches can be applied continuously  
-
-For greater detail on the benefits of using cloud you can read the blog posts on ‘Why we use the cloud: security and efficiency’ and ‘Why we use the cloud: supporting services’.  
-
-#### Following the cloud policy  
-
-Follow the cloud policy by:  
-
-●	Evaluating potential public cloud services before you consider alternatives such as BC On-Prem Hosting, which is a data centre available for all of government, and BC Private Cloud, which is an on-premise container hosting service  
-●	Demonstrating your chosen service represents the best value for money if selecting an alternative to public cloud - you must also show you’ve allowed for flexibility by being able to change the system and reduce costs over time  
-
-#### Related guides [From UK context]  
-
-Assessing a hosting business case  
-BC On-Prem Hosting  
-[BC Private Cloud] (https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/BC-Government-OpenShift-Container-Platform-Service-Definition)    
-
-### 6. Make things secure
-
-Keep systems and data safe with the appropriate level of security.  
-
-To meet point 6 of the Technology Code of Practice your plan or design must show how you are securing data and systems.  
-
-You’ll have to explain how you’re doing this as part of the digital investment process.  
-
-#### Build security in from the start of your initiative
-
-Include security at the start of the project. Have your team involved in making each element secure, from the start, instead of your security experts adding technical countermeasures to a finished product.  
-
-Training users and having clear processes are important for security, as is doing realistic threat assessments and taking a balanced approach to managing risk.  
-
-Plan how to deny, and quickly recover from, malicious access. Make sure you have processes in place to record information about any attacks and use this data to improve defences.  
-
-#### How to secure your technology  
-
-Choose the appropriate level of security for your technology initiative. Consider the risks and have processes in place to mitigate against them and improve time to recovery.  
-
-You can protect your data and infrastructure by:  
-
-●	Following the principles set out in the [Information Security Policy and Guidelines] (https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/information-security-policy-and-guidelines) and [Information Security Classification Standard] (https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-classification)  
-●	Following the [National Cyber Security Centre’s information risk management guidance]  
-●	Designing and implementing the components of your system according to government best practice, including [network principles, security design principles for digital services and securing government email]  
-●	Determining the security requirements of cloud services using the [Cloud security principles] and accompanying guidance  
-
-#### Related guides [UK]  
-
-Security policy framework
-Network principles
-Security classification policy
-Securing government email
-Security considerations when coding in the open
-NCSC risk management collection
-NCSC security design principles for digital services
-NCSC cloud security principles
-NCSC cloud security collection
-
-### 7. Make privacy integral  
-
-Make sure citizens’ rights are protected by integrating privacy as an essential part of your system.  
-
-To meet point 7 of the Technology Code of Practice your plan or design must show how you are considering privacy by design.  
-
-You’ll have to explain how you’re doing this as part of the digital investment process.  
-
-[Following section from UK TCoP left in for purposes of a template for BC]
-
-#### About the EU General Data Protection Regulation  
-The EU General Data Protection Regulation (GDPR) website and the Information Commissioner's Office (ICO) provide information about the GDPR. The Technology Code of Practice summarises the key points.  
-
-The GDPR will come into force on 25 May 2018. It’s about protecting citizens’ personal data while it is being processed or moved.  
-
-You must be ready to comply with this new regulation and consider the ethical and appropriate use of data and technology.  
-
-GDPR is adopting privacy by design as part of the regulation. There is a legal requirement in the GDPR for the protection of citizens’ data to be included from the start of the design process. GDPR includes upfront penalties for not complying.  
-
-Maintaining the privacy of citizens’ personal data includes security. Privacy also includes how citizens:  
-
-●	Consent to the use of their personal data  
-●	Have the right to have personal data erased  
-●	Have the right to restrict the processing of personal data  
-
-#### How privacy by design will help your initiative
-
-Your technology initiative will benefit from:  
-
-●	Being proactive about privacy and reducing the risks of data theft  
-●	Identifying potential privacy issues earlier when they are easier and cheaper to solve  
-●	Better awareness of privacy issues across the organisation  
-●	Adherence to GDPR when it comes into law  
-
-#### How to embed privacy by design  
-
-The EU General Data Protection Regulation (GDPR) replaces the Data Protection Directive 95/46/EC. It provides consistency of data privacy laws across Europe.  
-
-The Information Commissioner's Office (ICO) has a self-assessment questionnaire about your organisation's readiness in implementing the GDPR. They also have a guide to data protection and suggest using Privacy Impact Assessments (PIAs) as part of your initiative's risk management process. The following questions from the PIA code of practice are useful to consider:  
-
-1.	Will the initiative involve the collection of new information about individuals?  
-2.	Will individuals have to provide information about themselves to the initiative?
-3.	Will information about individuals be disclosed to organisations or people who have not previously had routine access to the information?  
-4.	Are you using information about individuals for a purpose it is not currently used for, or in a way it is not currently used?  
-5.	Does the initiative involve you using new technology that might be perceived as being privacy intrusive? For example, the use of biometrics or facial recognition.  
-6.	Will the initiative result in you making decisions or taking action against individuals in ways that can have a significant impact on them?  
-7.	Is the information about individuals of a kind particularly likely to raise privacy concerns or expectations? For example, health records, criminal records or other information that people would consider to be private.  
-8.	Will the initiative require you to contact individuals in ways that they may find intrusive?  
-
-#### Related guides  
-EU General Data Protection Regulation  
-European Commission: Protection of personal data  
-GDPR summary of legislation  
-UK Digital Strategy  
-Data Science Ethical Framework  
-
-[/end UK template]  
-
-### 8. Share and reuse technology  
-
-Promote good practice and avoid duplicated efforts by sharing and reusing services, data and software components.  
-
-To meet point 8 of the Technology Code of Practice your plans must show you have considered sharing and reusing technology.  
-
-You’ll have to explain how you’re meeting point 8 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.  
-
-#### Benefits of sharing and reusing  
-
-Sharing solutions from your initiative  
-
-When building a solution consider that others may want to use it in the future. It’s easier and cheaper to build this possibility in at the start than at the end. Consider the general application, not just your own departmental application, of the specific problem you are solving. Other initiatives can benefit if you share a solution to a common problem.  
-
-Reusing solutions to help your initiative
-
-Your technology initiative will benefit from reuse by:  
-
-●	Avoiding duplication and unnecessary investments by sharing and reusing government services, information, data and software components  
-●	Speeding up the initial project or programme phases by sharing and reusing documentation from discovery and pilot projects  
-●	Finding the best value for money by looking outside government for existing services and capabilities such as cloud hosting  
-
 #### How you can share and reuse technology  
+
+[Note that some of these will need to be moved to #5 if the suggested reorganization is accepted]  
 
 There are several technology resources and common government platforms available to all government organisations.  
 
@@ -496,63 +328,236 @@ Read the GOV.UK proposition guide to make sure your content is appropriate for p
 
 [/end UK exemplars]  
 
-### 9. Integrate and adapt technology  
+### 5. Reuse technology and use open source
 
-Your technology should adapt to future demands and work with existing technologies, processes and infrastructure in your organisation.  
+Improve transparency and accountability while reducing duplication by reusing technology and using open source.
 
-To meet point 9 of the Technology Code of Practice your plan or design must show how your technology initiative integrates into your organisation.  
+To meet point 5 of the Technology Code of Practice your plan or design must show you have considered reusing technology and using open source.
+
+You’ll have to explain how you’re meeting point 5 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.
+
+#### How open source differs from open standards  
+Open source is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone.  
+
+Open standards are a set of rules designed to do a specific job in technology. They are also designed collaboratively and free to use. Open standards allow open source and closed source (proprietary) software to work together.  
+
+#### How open standards help your initiative  
+
+Open standards can be used when designing individual elements of the solution.  
+
+Using open standards means you:  
+
+●	Save time and money by reusing things that are already available  
+●	Increase compatibility with all stakeholders  
+●	Potentially open up the range of companies you can purchase from as more of them are likely to use the same standard as you  
+●	Can move between different technologies when you need to and don’t get locked into contracts  
+
+#### Using open source
+
+The following questions are some of the points to consider when choosing technology and evaluating whether you want a proprietary or open source solution:  
+
+1.	Does the solution do what you need it to do?  
+2.	Does the solution meet the needs of your end users?  
+3.	What are the solution’s initial and ongoing costs?  
+4.	Will the staff need training or will expert users need to be employed to manage the solution?  
+5.	If the solution is open source, how widely is the code already adopted? How mature is it?  
+6.	Does the solution offer the level of support needed?  
+7.	How well is the solution maintained and is there evidence of further development?  
+8.	How reliable is the solution? This is hard to measure, but one way is to assess it by looking at its maturity.  
+9.	How well does the solution perform? Can you analyse performance data or reviews?  
+10.	How well will the solution scale to meet your needs?  
+11.	Does the solution’s security meet your needs and does it have regular security patches?  
+12.	Is the solution flexible? You can customise the solution to fully meet your needs but be aware this can make future updates and security patches hard to implement.  
+13.	Will the solution work with your other technology?  
+14.	Is the solution’s licence acceptable to your organisation’s business requirements? Are there any restrictions or gaps that would cause issues?  
+15.	Is the solution’s warranty acceptable and is there an option to buy one?  
+
+#### Related guides and sources [Note: From UK context, need BC versions]
+
+Open Source Initiative  
+[Choosing technology] (https://www.gov.uk/service-manual/technology/choosing-technology-an-introduction)  
+Making new source code open by default  
+[Ministry of Justice case study - why we code in the open] (https://mojdigital.blog.gov.uk/2017/02/21/why-we-code-in-the-open/)  
+[GDS case study - making the register to vote code open] (https://gdstechnology.blog.gov.uk/2016/01/26/working-out-how-to-open-up-the-register-to-vote-code/)  
+
+### 6. Make use of open standards
+
+Build technology that uses open standards to ensure your technology works and communicates with other technology, and is easily upgraded and expanded.
+
+To meet point 5 of the Technology Code of Practice your plan or design must show you are using or have considered using open standards and data. You must make your technology initiative as interoperable as possible.
+
+You’ll have to explain how you’re doing this as part of the digital investment process.
+
+### How open source differs from open standards
+
+Open source is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone.
+Open standards are a set of rules designed to do a specific job in technology. They are also designed collaboratively and free to use. Open standards allow open source and closed source (proprietary) software to work together.
+
+### How open standards help your initiative
+
+Open standards can be used when designing individual elements of the solution.  
+
+Using open standards means you:  
+
+●	Save time and money by reusing things that are already available  
+●	Increase compatibility with all stakeholders  
+●	Potentially open up the range of companies you can purchase from as more of them are likely to use the same standard as you  
+●	Can move between different technologies when you need to and don’t get locked into contracts  
+
+#### Build interoperability into your initiative. 
+
+Build flexibility into your technology by:  
+
+●	Using open standards, complying with any that are compulsory for use in government, unless you’ve been granted an exemption  
+●	Being clear what data your systems will hold, and which identifiers are in place to make sure the data can be used effectively  
+●	Avoiding the duplication of data, and being very clear about their approved source  
+●	Using RESTful APIs for integration where possible  
+●	Publishing your APIs on the [BC Government API Registry] (https://catalogue.data.gov.bc.ca/group/bc-government-api-registry) to make them reusable    
+
+#### Related guides
+
+[API Guidelines] (https://devhub-static-test-devhub-test.pathfinder.gov.bc.ca/Data-and-APIs/BC-Government-API-Guidelines?intention=LOGIN#error=login_required)  
+[API Registry] (https://catalogue.data.gov.bc.ca/group/bc-government-api-registry)  
+Open Standard Principles  
+Open Standards for government  
+About APIs  
+
+### 7. Use cloud intelligently  
+
+Use public cloud intelligently as stated in the government’s cloud  policy.  
+
+To meet point 7 of the Technology Code of Practice your plan or design must show you have considered using the public cloud as stated in the government’s cloud  policy.  
+
+You’ll have to explain how you’re meeting point 7 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.  
+#### Summary description of cloud computing  
+
+Cloud computing is a way of storing and retrieving data and software over the internet. The 3 main service areas are:  
+
+●	Software-as-a-service (SaaS), which is the use of applications over the internet  
+●	Platform-as-a-service (PaaS), which provides the platform for developing, testing and deploying your applications over the internet  
+●	Infrastructure-as-a-service (IaaS), which provides the physical technology infrastructure/network virtually over the internet without the need for you to buy your own hardware  
+
+#### How considering cloud will help your initiative  
+
+You can benefit from adopting an intelligent cloud approach because:  
+
+●	You can avoid upfront investments in your infrastructure, reducing overall costs  
+●	There’s greater flexibility to trial new services or make changes, with minimal cost 
+●	Pricing models are scaleable - instead of building for the maximum usage you buy for less usage and increase or decrease as appropriate  
+●	It will be easier to meet the [Greening Government Commitments] - cloud facilities typically try to use server space and power in the most efficient way possible  
+●	Upgrades and security patches can be applied continuously  
+
+For greater detail on the benefits of using cloud you can read the blog posts on ‘Why we use the cloud: security and efficiency’ and ‘Why we use the cloud: supporting services’.  
+
+#### Following the cloud policy  
+
+Follow the cloud policy by:  
+
+●	Evaluating potential public cloud services before you consider alternatives such as BC On-Prem Hosting, which is a data centre available for all of government, and BC Private Cloud, which is an on-premise container hosting service  
+●	Demonstrating your chosen service represents the best value for money if selecting an alternative to public cloud - you must also show you’ve allowed for flexibility by being able to change the system and reduce costs over time  
+
+#### Related guides [From UK context]  
+
+Assessing a hosting business case  
+BC On-Prem Hosting  
+[BC Private Cloud] (https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/BC-Government-OpenShift-Container-Platform-Service-Definition)    
+
+### 8. Make things secure
+
+Keep systems and data safe with the appropriate level of security.  
+
+To meet point 8 of the Technology Code of Practice your plan or design must show how you are securing data and systems.  
 
 You’ll have to explain how you’re doing this as part of the digital investment process.  
 
-#### How integration helps your initiative . 
+#### Build security in from the start of your initiative
 
-Good integration means making sure your new technology works with legacy solutions without limiting your ability to adapt to future demands or upgrade systems.  
+Include security at the start of the project. Have your team involved in making each element secure, from the start, instead of your security experts adding technical countermeasures to a finished product.  
 
-Your initiative will benefit from:  
+Training users and having clear processes are important for security, as is doing realistic threat assessments and taking a balanced approach to managing risk.  
 
-●	Less risk to your infrastructure as integration planning will discover compatibility gaps in the new technology  
-●	Less downtime on your regular processes when you upgrade or amend them  
-●	Systems which enforce built-in redundancy of services, minimising single points of failure  
-●	Lower long-term support costs  
+Plan how to deny, and quickly recover from, malicious access. Make sure you have processes in place to record information about any attacks and use this data to improve defences.  
 
-#### Fitting new technology into your organisation  
+#### How to secure your technology  
 
-Each organisation’s technology and infrastructure will have services and issues that are unique. There are some common elements to consider when fitting new technology into your current or legacy system, including:  
+Choose the appropriate level of security for your technology initiative. Consider the risks and have processes in place to mitigate against them and improve time to recovery.  
 
-●	How different aspects of your organisation’s IT operating model come together, including business areas such as processes, governance, service support and service delivery  
-●	How the new technology will work with your service management  
-●	What skills and capabilities your organisation needs to deliver, support and continuously improve the new technology you’ll purchase  
+You can protect your data and infrastructure by:  
 
-To optimise systems integration consider:  
+●	Following the principles set out in the [Information Security Policy and Guidelines] (https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/information-security-policy-and-guidelines) and [Information Security Classification Standard] (https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-classification)  
+●	Following the [National Cyber Security Centre’s information risk management guidance]  
+●	Designing and implementing the components of your system according to government best practice, including [network principles, security design principles for digital services and securing government email]  
+●	Determining the security requirements of cloud services using the [Cloud security principles] and accompanying guidance  
 
-●	Adopting a continuous integration model so you can solve smaller issues iteratively (this is generally easier and cheaper than waiting to test everything at the end of an initiative)  
-●	Designing your system using independently developed components that can easily work together  
-●	Building a system architecture early in the program to describe your current or future system and mapping hardware and software components  
-●	Defining a configuration management process  
-●	Doing component-level testing to make sure integration is possible  
-●	Doing regular integration and stress testing to track progress and make sure the system remains robust  
+#### Related guides [UK]  
 
-If you have chosen to use a systems integrator you should make sure they meet all of your requirements.  
+Security policy framework
+Network principles
+Security classification policy
+Securing government email
+Security considerations when coding in the open
+NCSC risk management collection
+NCSC security design principles for digital services
+NCSC cloud security principles
+NCSC cloud security collection
 
-When managing system processes and service management integration aim to:  
+### 9. Make privacy integral  
 
-●	Define the governance, processes, tools and information required to meet business needs and user needs  
-●	Map and track the interdependencies between the infrastructure and the services running on it  
-●	Provide support to the infrastructure and make sure you have the flexibility to add hardware and software  
-●	Be flexible so that processes can incorporate legacy and new infrastructure, including the use of cloud services  
-●	Understand the probable lifespan of your technologies (being aware of expiry and renewal timings) and create a roadmap showing your plan for retiring legacy systems  
+Make sure citizens’ rights are protected by integrating privacy as an essential part of your system.  
 
-System integration is important for the overall network performance and for considering your organisation’s service management.  
+To meet point 9 of the Technology Code of Practice your plan or design must show how you are considering privacy by design.  
 
-Service management depends on how your current infrastructure is managed, what new technology is being integrated and what the longer-term business objectives are for IT in the organisation.  
+You’ll have to explain how you’re doing this as part of the digital investment process.  
 
-#### Related Guides  
+[Following section from UK TCoP left in for purposes of a template for BC]
 
-List of [UK] guides on the topics of:  
+#### About the EU General Data Protection Regulation  
+The EU General Data Protection Regulation (GDPR) website and the Information Commissioner's Office (ICO) provide information about the GDPR. The Technology Code of Practice summarises the key points.  
 
-●	Networking  
-●	Legacy  
-●	Buying technology  
+The GDPR will come into force on 25 May 2018. It’s about protecting citizens’ personal data while it is being processed or moved.  
+
+You must be ready to comply with this new regulation and consider the ethical and appropriate use of data and technology.  
+
+GDPR is adopting privacy by design as part of the regulation. There is a legal requirement in the GDPR for the protection of citizens’ data to be included from the start of the design process. GDPR includes upfront penalties for not complying.  
+
+Maintaining the privacy of citizens’ personal data includes security. Privacy also includes how citizens:  
+
+●	Consent to the use of their personal data  
+●	Have the right to have personal data erased  
+●	Have the right to restrict the processing of personal data  
+
+#### How privacy by design will help your initiative
+
+Your technology initiative will benefit from:  
+
+●	Being proactive about privacy and reducing the risks of data theft  
+●	Identifying potential privacy issues earlier when they are easier and cheaper to solve  
+●	Better awareness of privacy issues across the organisation  
+●	Adherence to GDPR when it comes into law  
+
+#### How to embed privacy by design  
+
+The EU General Data Protection Regulation (GDPR) replaces the Data Protection Directive 95/46/EC. It provides consistency of data privacy laws across Europe.  
+
+The Information Commissioner's Office (ICO) has a self-assessment questionnaire about your organisation's readiness in implementing the GDPR. They also have a guide to data protection and suggest using Privacy Impact Assessments (PIAs) as part of your initiative's risk management process. The following questions from the PIA code of practice are useful to consider:  
+
+1.	Will the initiative involve the collection of new information about individuals?  
+2.	Will individuals have to provide information about themselves to the initiative?
+3.	Will information about individuals be disclosed to organisations or people who have not previously had routine access to the information?  
+4.	Are you using information about individuals for a purpose it is not currently used for, or in a way it is not currently used?  
+5.	Does the initiative involve you using new technology that might be perceived as being privacy intrusive? For example, the use of biometrics or facial recognition.  
+6.	Will the initiative result in you making decisions or taking action against individuals in ways that can have a significant impact on them?  
+7.	Is the information about individuals of a kind particularly likely to raise privacy concerns or expectations? For example, health records, criminal records or other information that people would consider to be private.  
+8.	Will the initiative require you to contact individuals in ways that they may find intrusive?  
+
+#### Related guides  
+EU General Data Protection Regulation  
+European Commission: Protection of personal data  
+GDPR summary of legislation  
+UK Digital Strategy  
+Data Science Ethical Framework  
+
+[/end UK template]  
 
 ### 10. Make better use of data  
 
@@ -561,7 +566,6 @@ Consider how to minimise data collection and reuse data to avoid duplication of 
 To meet point 10 of the Technology Code of Practice your plans must show you’ve considered minimising data collection and duplication.  
 
 You’ll have to explain how you’re meeting point 10 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.  
-
 #### How minimising data collection and duplication will help your initiative
 
 Minimising data collection and duplication will mean your project benefits from:  
@@ -572,7 +576,7 @@ Minimising data collection and duplication will mean your project benefits from:
 ●	Giving your users a more consistent experience when using government services online, which builds trust  
 ●	Potentially reducing unnecessary new demands for data storage  
 
-#### How your initiative can make better use of data . 
+#### How your initiative can make better use of data. 
 
 When using data your obligations include:  
 
