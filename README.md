@@ -87,7 +87,7 @@ Promote good practice and avoid duplicated efforts by sharing and reusing servic
 
 ### 9. Integrate and adapt technology
 
-Your technology should work with existing technologies, processes and infrastructure in your organisation, and adapt to future demands.
+Your technology should work with existing technologies, processes and infrastructure in your organization, and adapt to future demands.
 
 ### 10. Make better use of data
 
@@ -168,12 +168,16 @@ Your research must include users with a range of abilities. Make sure your techn
 ●	Enabling access to services through a range of web browsers and ensuring compatibility with assistive technologies and a range of end user devices  
 
 #### Related Guides  
-● [Accessble Government Toolkit] (https://www2.gov.bc.ca/gov/content/home/accessible-government)  	
+● [Accessible Government Toolkit] (https://www2.gov.bc.ca/gov/content/home/accessible-government)  	
 ● [Equality Act 2010]  
 ●	Meeting the accessibility standard  
 ●	Meeting compatibility with assistive technologies  
 
+● [Consider whether this is a good place to reference GBA_and similar frameworks]  
+
 ### 3. Follow latest guidance to integrate and adapt technology
+
+[Needs input from common components and HADF]  
 
 Your technology should adapt to future demands and work with existing technologies, processes and infrastructure in your organization.
 
@@ -190,18 +194,18 @@ Your initiative will benefit from:
 
 ●	Less risk to your infrastructure as integration planning will discover compatibility gaps in the new technology  
 ●	Less downtime on your regular processes when you upgrade or amend them  
-●	Systems which enforce built-in redundancy of services, minimising single points of failure  
+●	Systems which enforce built-in redundancy of services, minimizing single points of failure  
 ●	Lower long-term support costs  
 
-#### Fitting new technology into your organisation  
+#### Fitting new technology into your organization  
 
-Each organisation’s technology and infrastructure will have services and issues that are unique. There are some common elements to consider when fitting new technology into your current or legacy system, including:  
+Each organization’s technology and infrastructure will have services and issues that are unique. There are some common elements to consider when fitting new technology into your current or legacy system, including:  
 
-●	How different aspects of your organisation’s IT operating model come together, including business areas such as processes, governance, service support and service delivery  
+●	How different aspects of your organization’s IT operating model come together, including business areas such as processes, governance, service support and service delivery  
 ●	How the new technology will work with your service management  
-●	What skills and capabilities your organisation needs to deliver, support and continuously improve the new technology you’ll purchase  
+●	What skills and capabilities your organization needs to deliver, support and continuously improve the new technology you’ll purchase  
 
-To optimise systems integration consider:  
+To optimize systems integration consider:  
 
 ●	Adopting a continuous integration model so you can solve smaller issues iteratively (this is generally easier and cheaper than waiting to test everything at the end of an initiative)  
 ●	Designing your system using independently developed components that can easily work together  
@@ -220,9 +224,9 @@ When managing system processes and service management integration aim to:
 ●	Be flexible so that processes can incorporate legacy and new infrastructure, including the use of cloud services  
 ●	Understand the probable lifespan of your technologies (being aware of expiry and renewal timings) and create a roadmap showing your plan for retiring legacy systems  
 
-System integration is important for the overall network performance and for considering your organisation’s service management.  
+System integration is important for the overall network performance and for considering your organization’s service management.  
 
-Service management depends on how your current infrastructure is managed, what new technology is being integrated and what the longer-term business objectives are for IT in the organisation.  
+Service management depends on how your current infrastructure is managed, what new technology is being integrated and what the longer-term business objectives are for IT in the organization.  
 
 #### Related Guides  
 
@@ -235,6 +239,8 @@ List of [UK] guides on the topics of:
 ### 4. Work in the open and share your technology
 
 Promote good practice by publishing your code openly and sharing your services, data and software components. 
+
+[Also consider sharing research and decision-making?]  
 
 To meet point 4 of the Technology Code of Practice your plan or design must show you have considered publishing your code openly and sharing your technology.
 
@@ -261,7 +267,7 @@ If your technology initiative includes code in its development, refer to the Ser
 
 [Note that some of these will need to be moved to #5 if the suggested reorganization is accepted]  
 
-There are several technology resources and common government platforms available to all government organisations.  
+There are several technology resources and common government platforms available to all government organizations.  
 
 Communities  
 
@@ -367,9 +373,9 @@ The following questions are some of the points to consider when choosing technol
 9.	How well does the solution perform? Can you analyse performance data or reviews?  
 10.	How well will the solution scale to meet your needs?  
 11.	Does the solution’s security meet your needs and does it have regular security patches?  
-12.	Is the solution flexible? You can customise the solution to fully meet your needs but be aware this can make future updates and security patches hard to implement.  
+12.	Is the solution flexible? You can customize the solution to fully meet your needs but be aware this can make future updates and security patches hard to implement.  
 13.	Will the solution work with your other technology?  
-14.	Is the solution’s licence acceptable to your organisation’s business requirements? Are there any restrictions or gaps that would cause issues?  
+14.	Is the solution’s licence acceptable to your organization’s business requirements? Are there any restrictions or gaps that would cause issues?  
 15.	Is the solution’s warranty acceptable and is there an option to buy one?  
 
 #### Related guides and sources [Note: From UK context, need BC versions]
@@ -424,11 +430,12 @@ About APIs
 
 ### 7. Use cloud intelligently  
 
-Use public cloud intelligently as stated in the government’s cloud  policy.  
+Use public cloud intelligently as stated in the government’s cloud policy.
 
-To meet point 7 of the Technology Code of Practice your plan or design must show you have considered using the public cloud as stated in the government’s cloud  policy.  
+To meet point 7 of the Technology Code of Practice your plan or design must show you have considered using the public cloud as stated in the government’s cloud  policy. [Link to in-development policy?]  
 
 You’ll have to explain how you’re meeting point 7 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.  
+
 #### Summary description of cloud computing  
 
 Cloud computing is a way of storing and retrieving data and software over the internet. The 3 main service areas are:  
@@ -512,7 +519,7 @@ You’ll have to explain how you’re doing this as part of the digital investme
 [Following section from UK TCoP left in for purposes of a template for BC]
 
 #### About the EU General Data Protection Regulation  
-The EU General Data Protection Regulation (GDPR) website and the Information Commissioner's Office (ICO) provide information about the GDPR. The Technology Code of Practice summarises the key points.  
+The EU General Data Protection Regulation (GDPR) website and the Information Commissioner's Office (ICO) provide information about the GDPR. The Technology Code of Practice summarizes the key points.  
 
 The GDPR will come into force on 25 May 2018. It’s about protecting citizens’ personal data while it is being processed or moved.  
 
@@ -532,18 +539,18 @@ Your technology initiative will benefit from:
 
 ●	Being proactive about privacy and reducing the risks of data theft  
 ●	Identifying potential privacy issues earlier when they are easier and cheaper to solve  
-●	Better awareness of privacy issues across the organisation  
+●	Better awareness of privacy issues across the organization  
 ●	Adherence to GDPR when it comes into law  
 
 #### How to embed privacy by design  
 
 The EU General Data Protection Regulation (GDPR) replaces the Data Protection Directive 95/46/EC. It provides consistency of data privacy laws across Europe.  
 
-The Information Commissioner's Office (ICO) has a self-assessment questionnaire about your organisation's readiness in implementing the GDPR. They also have a guide to data protection and suggest using Privacy Impact Assessments (PIAs) as part of your initiative's risk management process. The following questions from the PIA code of practice are useful to consider:  
+The Information Commissioner's Office (ICO) has a self-assessment questionnaire about your organization's readiness in implementing the GDPR. They also have a guide to data protection and suggest using Privacy Impact Assessments (PIAs) as part of your initiative's risk management process. The following questions from the PIA code of practice are useful to consider:  
 
 1.	Will the initiative involve the collection of new information about individuals?  
 2.	Will individuals have to provide information about themselves to the initiative?
-3.	Will information about individuals be disclosed to organisations or people who have not previously had routine access to the information?  
+3.	Will information about individuals be disclosed to organizations or people who have not previously had routine access to the information?  
 4.	Are you using information about individuals for a purpose it is not currently used for, or in a way it is not currently used?  
 5.	Does the initiative involve you using new technology that might be perceived as being privacy intrusive? For example, the use of biometrics or facial recognition.  
 6.	Will the initiative result in you making decisions or taking action against individuals in ways that can have a significant impact on them?  
@@ -561,14 +568,15 @@ Data Science Ethical Framework
 
 ### 10. Make better use of data  
 
-Consider how to minimise data collection and reuse data to avoid duplication of datasets.  
+Consider how to minimize data collection and reuse data to avoid duplication of datasets.  
 
-To meet point 10 of the Technology Code of Practice your plans must show you’ve considered minimising data collection and duplication.  
+To meet point 10 of the Technology Code of Practice your plans must show you’ve considered minimizing data collection and duplication.  
 
-You’ll have to explain how you’re meeting point 10 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.  
-#### How minimising data collection and duplication will help your initiative
+You’ll have to explain how you’re meeting point 10 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this. 
 
-Minimising data collection and duplication will mean your project benefits from:  
+#### How minimizing data collection and duplication will help your initiative
+
+Minimizing data collection and duplication will mean your project benefits from:  
 
 ●	Adhering to the [BC Digital Framework] (https://digital.gov.bc.ca/digital-transformation/)  
 ●	Saving time and money by reusing open data that is already available  
@@ -591,7 +599,7 @@ When using data your obligations include:
 #### To make better use of data consider:  
 
 ●	Making sure newly collected data can be made easily accessible to APIs for future use  
-●	Minimising the amount of data shared for achieving a specific purpose (large amounts of personal information should not be shared or copied unnecessarily)  
+●	Minimizing the amount of data shared for achieving a specific purpose (large amounts of personal information should not be shared or copied unnecessarily)  
 ●	Using common standards and patterns to ensure data can be easily analysed, and where appropriate, shared with other departments  
 ●	Understanding best practices for collecting, storing, analysing and sharing data from other departments, other governments and other sectors  
 ●	Keeping data for only as long as necessary, and securely deleting the data when it’s no longer needed  
@@ -633,14 +641,14 @@ Your technology initiative will benefit from:
 
 #### Commercial approach  
 
-Your sourcing strategy must demonstrate that you have a thorough understanding of the commercial undertakings required to deliver, use and manage your initiative. You should plan how to manage multiple suppliers, where that structure is appropriate for the organisation’s operating model, and when they're working as part of the same delivery teams. This includes:  
+Your sourcing strategy must demonstrate that you have a thorough understanding of the commercial undertakings required to deliver, use and manage your initiative. You should plan how to manage multiple suppliers, where that structure is appropriate for the organization’s operating model, and when they're working as part of the same delivery teams. This includes:  
 
 ●	Routinely challenging your sourcing strategies to consider whether your requirements can be simplified or broken up to allow for greater competition in the marketplace, including by small and medium-sized enterprises.  
 ●	Using value chain mapping to help identify the products and their components you need, and whether it would be better to build or buy depending on their maturity as a product  
 ●	Moving from large contracts with a single supplier to multiple suppliers where there’s an operational and value for money justification  
 ●	Understanding where and how you’ve disaggregated the technology that underpins your initiative and the contracts that supply the technology  
-●	Considering what skills and capabilities your organisation needs to deliver and support the product or service you’ll purchase  
-●	Using a sourcing model that fits your services, and works in your organisation’s specific circumstances  
+●	Considering what skills and capabilities your organization needs to deliver and support the product or service you’ll purchase  
+●	Using a sourcing model that fits your services, and works in your organization’s specific circumstances  
 
 #### Technology considerations  
 
@@ -648,7 +656,7 @@ Your sourcing strategy must consider technology approaches that will encourage t
 
 ●	Breaking up services in line with industry best practices including using a lean sourcing approach, pre-procurement market engagement and being as open as possible  
 ●	Where you use off the shelf products and services, avoiding customizations that stops you from maintaining, upgrading or removing these products and services in future  
-●	Complying with the [UK] Greening Government Commitments to reduce your organisation’s environmental impact  
+●	Complying with the [UK] Greening Government Commitments to reduce your organization’s environmental impact  
 
 #### Use common government sourcing routes  
 
