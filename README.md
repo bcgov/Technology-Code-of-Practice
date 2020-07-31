@@ -97,10 +97,6 @@ Consider how to minimize data collection and reuse data to avoid duplication of 
 
 Your purchasing strategy must show you’ve considered commercial and technology aspects, and contractual limitations.
 
-### 12. Meet the Service Standard for digital services
-
-If you are building a service as part of your technology initiative, you will also need to meet the Service Standard.
-
 ## The Technology Code of Practice (Detailed)
 
 ### 0. Meet the Digital Service Standard
