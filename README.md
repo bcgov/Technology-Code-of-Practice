@@ -81,14 +81,6 @@ Keep systems and data safe with the appropriate level of security.
 
 Make sure citizens’ rights are protected by integrating privacy as an essential part of your system.
 
-### 8. Share and reuse technology
-
-Promote good practice and avoid duplicated efforts by sharing and reusing services, data and software components.
-
-### 9. Integrate and adapt technology
-
-Your technology should work with existing technologies, processes and infrastructure in your organization, and adapt to future demands.
-
 ### 10. Make better use of data
 
 Consider how to minimize data collection and reuse data to avoid duplication of datasets.
