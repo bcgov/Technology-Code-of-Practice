@@ -381,8 +381,8 @@ Build flexibility into your technology by:
 
 #### Related guides
 
-[API Guidelines] (https://devhub-static-test-devhub-test.pathfinder.gov.bc.ca/Data-and-APIs/BC-Government-API-Guidelines?intention=LOGIN#error=login_required)  
-[API Registry] (https://catalogue.data.gov.bc.ca/group/bc-government-api-registry)
+● [API Guidelines] (https://devhub-static-test-devhub-test.pathfinder.gov.bc.ca/Data-and-APIs/BC-Government-API-Guidelines?intention=LOGIN#error=login_required)  
+● [API Registry] (https://catalogue.data.gov.bc.ca/group/bc-government-api-registry)
 
 ### 6. Use cloud intelligently  
 
@@ -421,8 +421,8 @@ Follow the cloud policy by:
 
 #### Related guides
 
-BC On-Prem Hosting  [placeholder]
-[BC Private Cloud] (https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/BC-Government-OpenShift-Container-Platform-Service-Definition)    
+● BC On-Prem Hosting  [placeholder]
+● [BC Private Cloud] (https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/BC-Government-OpenShift-Container-Platform-Service-Definition)    
 
 ### 7. Make things secure
 
@@ -474,8 +474,8 @@ Your technology initiative will benefit from:
 
 #### Related guides  
 
-[BC Guide to Good Privacy Practices] (https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/good-privacy-practices)
-[BC Freedom of Information and Protection of Privacy Act] (https://www.bclaws.ca/civix/document/id/complete/statreg/96165_00)
+● [BC Guide to Good Privacy Practices] (https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/good-privacy-practices)
+● [BC Freedom of Information and Protection of Privacy Act] (https://www.bclaws.ca/civix/document/id/complete/statreg/96165_00)
 
 ### 9. Make better use of data  
 
