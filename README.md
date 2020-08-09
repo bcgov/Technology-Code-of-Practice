@@ -54,9 +54,9 @@ Make sure your technology, infrastructure and systems are accessible for users, 
 
 Your technology should adapt to future demands and work with existing technologies, processes and infrastructure in your organization.
 
-### 4. Work in the open and reuse existing solutions
+### 4. Reuse existing solutions and work in the open
 
-Improve transparency and reduce duplication by working in the open, reusing existing solutions in government, using open source solutions, and sharing your technology.
+Improve efficiency, promote collaboration, and reduce duplication by reusing existing solutions and working in the open.
 
 ### 5. Make use of open standards
 
@@ -204,35 +204,13 @@ Service management depends on how your current infrastructure is managed, what n
 
 [Placeholder]
 
-### 4. Work in the open and reuse existing solutions
+### 4. Reuse existing solutions and work in the open
 
-Improve transparency and reduce duplication by working in the open, reusing existing solutions in government, using open source solutions, and sharing your technology.
+Improve efficiency, promote collaboration, and reduce duplication by reusing existing solutions and working in the open.
 
-[Also consider sharing research and decision-making?]  
+To meet point 4 of the Technology Code of Practice your plan or design must show that you have considered reusing existing solutions, including BC government and open source solutions, and that you have considered publishing your code openly and sharing your technology.
 
-To meet point 4 of the Technology Code of Practice your plan or design must show you have considered publishing your code openly and sharing your technology.
-
-
-#### How being open will help your initiative  
-
-Publishing your code and data from the beginning of your technology initiative will encourage:  
-
-●	Clearer documentation, making it easier for your team to maintain the code, track changes to it and for other people to use it  
-●	Cleaner and well-structured code that is easier to maintain  
-●	Clarity around data that needs to remain protected and how that’s achieved  
-●	Suggestions about how the code can be improved or where security can be improved  
-
-#### Sharing solutions from your initiative
-
-When building a solution consider that others may want to use it in the future. It’s easier and cheaper to build this possibility in at the start than at the end. Consider the general application, not just your own departmental application, of the specific problem you are solving. Other initiatives can benefit if you share a solution to a common problem.
-
-#### Publishing code  
-
-If your technology initiative includes code in its development, refer to the Service Manual section on making source code open and reusable.
-
-#### How you can share and reuse technology  
-
-[Note that some of these will need to be moved to #5 if the suggested reorganization is accepted]  
+#### How you can reuse and share solutions
 
 There are several technology resources and common government platforms available to all government organizations.  
 
@@ -295,27 +273,10 @@ Aggregation opportunities
 
 Crown Commercial Service provides information about current and future opportunities to aggregate buying requirements when purchasing technology.  
 
-#### Related Guides  
-
-Read the GOV.UK proposition guide to make sure your content is appropriate for publication on GOV.UK.  
-
-[/end UK exemplars]  
-
 #### How open source differs from open standards  
 Open source is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone.  
 
 Open standards are a set of rules designed to do a specific job in technology. They are also designed collaboratively and free to use. Open standards allow open source and closed source (proprietary) software to work together.  
-
-#### How open standards help your initiative  
-
-Open standards can be used when designing individual elements of the solution.  
-
-Using open standards means you:  
-
-●	Save time and money by reusing things that are already available  
-●	Increase compatibility with all stakeholders  
-●	Potentially open up the range of companies you can purchase from as more of them are likely to use the same standard as you  
-●	Can move between different technologies when you need to and don’t get locked into contracts  
 
 #### Using open source
 
@@ -337,13 +298,23 @@ The following questions are some of the points to consider when choosing technol
 14.	Is the solution’s licence acceptable to your organization’s business requirements? Are there any restrictions or gaps that would cause issues?  
 15.	Is the solution’s warranty acceptable and is there an option to buy one?  
 
-#### Related guides and sources [Note: From UK context, need BC versions]
+#### How being open will help your initiative  
 
-Open Source Initiative  
-[Choosing technology] (https://www.gov.uk/service-manual/technology/choosing-technology-an-introduction)  
-Making new source code open by default  
-[Ministry of Justice case study - why we code in the open] (https://mojdigital.blog.gov.uk/2017/02/21/why-we-code-in-the-open/)  
-[GDS case study - making the register to vote code open] (https://gdstechnology.blog.gov.uk/2016/01/26/working-out-how-to-open-up-the-register-to-vote-code/)  
+Publishing your code and data from the beginning of your technology initiative will encourage:  
+
+●	Clearer documentation, making it easier for your team to maintain the code, track changes to it and for other people to use it  
+●	Cleaner and well-structured code that is easier to maintain  
+●	Clarity around data that needs to remain protected and how that’s achieved  
+●	Suggestions about how the code can be improved or where security can be improved  
+
+#### Sharing solutions from your initiative
+
+When building a solution consider that others may want to use it in the future. It’s easier and cheaper to build this possibility in at the start than at the end. Consider the general application, not just your own departmental application, of the specific problem you are solving. Other initiatives can benefit if you share a solution to a common problem.
+
+#### Related guides and sources
+
+● [Common components]
+● [Todd Wilson 2014 Open Source Standard, if it is current] 
 
 ### 5. Make use of open standards
 
