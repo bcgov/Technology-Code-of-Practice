@@ -1,6 +1,6 @@
 # Technology Code of Practice
 
-The BC Technology Code of Practice, being developed pursuant to BC's Digital Framework and the priority actions therein, is a DRAFT set of criteria to help the BC Government design, build and buy better technology. The Code is envisioned to be used as a cross-government agreed standard in government's new technology funding review process.
+The BC Technology Code of Practice, being developed pursuant to BC's Digital Framework and the priority actions therein, is a DRAFT set of criteria to help the BC Government design, build, and buy better technology. The Code is envisioned to be used as a cross-government agreed standard in government's new technology funding review process.
 
 The Code as it exists below is an alpha (https://developer.gov.bc.ca/Agile-Delivery-Journey/Alpha), modelled after exemplars from leading jurisdictions, being developed at the direction of central government. The intent is for this Alpha Code to be socialized and iterated with the BCGov digital community, ultimately coming to form a co-created Practice that is uniformly adopted and followed from the start of any BC Government technology program, project or product development.
 
@@ -10,7 +10,7 @@ This Code is envisioned to be part of an interconnected set of guidance and stan
 
 * For employees, our British Columbia Public Service Oath of Employment (https://www2.gov.bc.ca/assets/gov/careers/managers-supervisors/managing-employee-labour-relations/oath_of_employment.pdf) and Standards of Conduct (https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct);
 * A new set of (DRAFT) Digital Principles - fundamental propositions - intended to serve as the foundation for a system of behaviors to guide the work of the Digital BC community (find those Principles here: https://github.com/bcgov/digital-principles/); 
-* A new (DRAFT) Digital Service Standard, intended to guide internet era teams to create and run great public services, no matter the channel through which those services are delivered (i.e. whether digital or not); and
+* For those creating digital services, a new (DRAFT) Digital Service Standard; and
 * For those using technology, this new (DRAFT) Technology Code of Practice.
 
 It is envisioned that this Code will eventually reside as a GitHub repository at https://github.com/bcgov/ and online as part of https://digital.gov.bc.ca/. The content has been borrowed heavily - with gratitude - from the UK's Technology Code of Practice (https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice).
@@ -40,7 +40,7 @@ All points of the Technology Code of Practice must be considered. Where legacy t
 
 ### 0. Meet the Digital Service Standard
 
-If you are building a Digital Service, make sure you meet the Digital Service Standard.
+If you are building a digital service, make sure you meet the Digital Service Standard.
 
 ### 1. Describe user needs informed by ongoing research
 
@@ -85,7 +85,7 @@ Your purchasing strategy must show you’ve considered commercial and technology
 
 ### 0. Meet the Digital Service Standard
 
-If you are building a Digital Service, make sure you meet the Digital Service Standard.
+If you are building a digital service, make sure you meet the Digital Service Standard.
 
 ### 1. Describe user needs informed by ongoing research
 
