@@ -111,9 +111,9 @@ User research can also:
 
 #### Related guides
 ● [Service Design in the BC Public Service] (https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design/service-design-in-the-bc-public-service)  
-●	[Citizen Engagement Handbook] (https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/service-experience-digital-delivery/citizen-engagement/full_citizen_engagement_handbook.pdf)
-●	[GBA+] (https://cfc-swc.gc.ca/gba-acs/index-en.html)
-●	‘Understand users and their needs’ from the BC Service Standard for initiatives that include the creation of a service
+● [Citizen Engagement Handbook] (https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/service-experience-digital-delivery/citizen-engagement/full_citizen_engagement_handbook.pdf)
+● [GBA+] (https://cfc-swc.gc.ca/gba-acs/index-en.html)
+● ‘Understand users and their needs’ from the BC Service Standard for initiatives that include the creation of a service
 
 Find out more about:  
 ●	user research  
