@@ -1,8 +1,8 @@
 # Technology Code of Practice
 
-The BC Technology Code of Practice, being developed pursuant to BC's Digital Framework and the priority actions therein, is a DRAFT set of criteria to help the BC Government design, build and buy better technology. The Code is envisioned to be used as a cross-government agreed standard in government's new, in-development digital investment and implementation process.
+The BC Technology Code of Practice, being developed pursuant to BC's Digital Framework and the priority actions therein, is a DRAFT set of criteria to help the BC Government design, build and buy better technology. The Code is envisioned to be used as a cross-government agreed standard in government's new technology funding review process.
 
-The Code as it exists below is an alpha (https://developer.gov.bc.ca/Agile-Delivery-Journey/Alpha), modelled after exemplars from leading jurisdictions, being developed at the direction of central government. The intent is for this Alpha Code to be socialized and iterated with the BCGov digital community, ultimately coming to form a co-created Practice that is uniformly adopted and followed from the start of any BC Government technology programme, project or product development.
+The Code as it exists below is an alpha (https://developer.gov.bc.ca/Agile-Delivery-Journey/Alpha), modelled after exemplars from leading jurisdictions, being developed at the direction of central government. The intent is for this Alpha Code to be socialized and iterated with the BCGov digital community, ultimately coming to form a co-created Practice that is uniformly adopted and followed from the start of any BC Government technology program, project or product development.
 
 ## The Technology Code of Practice in Context
 
@@ -10,18 +10,14 @@ This Code is envisioned to be part of an interconnected set of guidance and stan
 
 * For employees, our British Columbia Public Service Oath of Employment (https://www2.gov.bc.ca/assets/gov/careers/managers-supervisors/managing-employee-labour-relations/oath_of_employment.pdf) and Standards of Conduct (https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct);
 * A new set of (DRAFT) Digital Principles - fundamental propositions - intended to serve as the foundation for a system of behaviors to guide the work of the Digital BC community (find those Principles here: https://github.com/bcgov/digital-principles/); 
-* A new (DRAFT) Service Standard, intended to guide internet era teams to create and run great public services, no matter the channel through which those services are delivered (i.e. whether digital or not); and
+* A new (DRAFT) Digital Service Standard, intended to guide internet era teams to create and run great public services, no matter the channel through which those services are delivered (i.e. whether digital or not); and
 * For those using technology, this new (DRAFT) Technology Code of Practice.
 
-It is envisioned that this Code will eventually reside as a GitHub repository at https://github.com/bcgov/ and online as part of https://digital.gov.bc.ca/. The content has been borrowed heavily - with gratitude - from the UK's Technology Code of Practice (https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice). In the content below, the drafters of this BC TCoP have left a number of UK-specific references to policies, guidance, blog posts, etc., having done so as signals to the kinds of artifacts relevant teams in the BCGov must/should consider creating for the BC context.
-
-A specific note re: cloud: At the time of original drafting of this BC TCoP, British Columbia has very recently amended its Freedom of Information and Protection of Privacy Act, having done so to, amongst other rationale, modernize this statute for the purpose of enabling the use of cloud services. However, while the UK Technology Code of Practice references a "cloud first policy," it would be very presumptive at this time to envision such a policy for British Columbia. Instead, the original drafters have taken the liberty of leaving reference to cloud in this BC TCoP, but using the term "intelligent." This language is not endorsed and is simply included as a placeholder for future consideration. 
-
-There are other uses of language in this in-development Code - e.g. "BC Private Cloud," "Investment & Implementation" - that should not be taken as anything more than placeholders, rather than foreshadowing or signals of future intent on the part of government or the agencies responsible for the matters set out below. 
+It is envisioned that this Code will eventually reside as a GitHub repository at https://github.com/bcgov/ and online as part of https://digital.gov.bc.ca/. The content has been borrowed heavily - with gratitude - from the UK's Technology Code of Practice (https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice).
 
 ## The purpose of the Technology Code of Practice
 
-Following the Technology Code of Practice will help you gain approval to spend from your department investment process / from the BC Digital Service Investment & Implementation team, avoiding activities that’ll result in your application being rejected. It will also help you introduce technology that:
+Following the Technology Code of Practice will help you gain approval and support for technology spending. It will also help you introduce technology that:
 
 * meets user needs, based on research with your users
 * can be shared across government
@@ -34,7 +30,7 @@ The Technology Code of Practice contains guidance and case studies to help you m
 
 ## Using the Technology Code of Practice
 
-You should use the Technology Code of Practice for all of your technology initiatives. If your initiative needs funding approval you should contact the BC Digital Service (BCDS) Investment & Implementation team as soon as possible. They’ll guide you through the approvals process which can provide you with greater confidence that your spend request will be approved.
+You should use the Technology Code of Practice for all of your technology initiatives. If your initiative needs funding approval, you should contact the OCIO's Digital Support Team team as soon as possible. The team will guide you through the approvals process which can provide you with greater confidence that your spend request will be approved.
 
 All points of the Technology Code of Practice must be considered. Where legacy technology limits your ability to adhere to the standard, this must be explained as part of the digital investment process. The Standards Assurance team consider individual circumstances for each application.
 
@@ -58,34 +54,30 @@ Make sure your technology, infrastructure and systems are accessible for users, 
 
 Your technology should adapt to future demands and work with existing technologies, processes and infrastructure in your organization.
 
-### 4. Work in the open and share your technology
+### 4. Work in the open and reuse existing solutions
 
-Promote good practice by publishing your code openly and sharing your services, data and software components. 
+Improve transparency and reduce duplication by working in the open, reusing existing solutions in government, using open source solutions, and sharing your technology.
 
-### 5. Reuse technology and use open source
-
-Improve transparency and accountability while reducing duplication by reusing technology and using open source.
-
-### 6. Make use of open standards
+### 5. Make use of open standards
 
 Build technology that uses open standards to ensure your technology works and communicates with other technology, and is easily upgraded and expanded.
 
-### 7. Use cloud intelligently
+### 6. Use cloud intelligently
 Use public cloud intelligently as stated in the government’s cloud policy. [Note: Adapted from the UK's "cloud first" practice and policy.]
 
-### 8. Make things secure
+### 7. Make things secure
 
 Keep systems and data safe with the appropriate level of security.
 
-### 9. Make privacy integral
+### 8. Make privacy integral
 
 Make sure citizens’ rights are protected by integrating privacy as an essential part of your system.
 
-### 10. Make better use of data
+### 9. Make better use of data
 
 Consider how to minimize data collection and reuse data to avoid duplication of datasets.
 
-### 11. Define your purchasing strategy
+### 10. Define your purchasing strategy
 
 Your purchasing strategy must show you’ve considered commercial and technology aspects, and contractual limitations.
 
@@ -117,12 +109,11 @@ User research can also:
 ●	make sure that services such as online office suites, network shares, project management software and HR suites really do meet your users’ needs  
 ●	support internal agreement of what you want the technology to help you achieve   
 
-#### Related guides [Note: In-development in the BC context]  
+#### Related guides
 ● [Service Design in the BC Public Service] (https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design/service-design-in-the-bc-public-service)  
-●	User research training for central government workers  
-●	‘Understanding user needs’ from the BC Service Standard for initiatives that include the creation of a service  
-●	User research for government services: an introduction  
-●	Learning about users and their needs  
+●	[Citizen Engagement Handbook] (https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/service-experience-digital-delivery/citizen-engagement/full_citizen_engagement_handbook.pdf)
+●	[GBA+] (https://cfc-swc.gc.ca/gba-acs/index-en.html)
+●	‘Understand users and their needs’ from the BC Service Standard for initiatives that include the creation of a service
 
 Find out more about:  
 ●	user research  
@@ -137,42 +128,35 @@ To meet point 2 of the Technology Code of Practice your plan or design must show
 
 You’ll have to explain how you’re doing this as part of the digital investment process.
 
-#### How making things accessible and inclusive will help your initiative
+#### How making things accessible will help your initiative
 
 Your technology initiative will benefit from:  
 
-●	Following the law set out in the Equality Act 2010 [No BC equivalent]  
 ●	Making your technology work for as many users as possible  
 ●	Being assured that all staff members on your team will be able to easily access the information and infrastructure needed to do their work including services such as online office suites, network shares, project management software and HR suites  
 ●	Being assured that there will be no barrier to employing people with specific access needs  
 
-#### How to make your technology accessible and inclusive  
+#### How to make your technology accessible
 
 Your research must include users with a range of abilities. Make sure your technology and systems can be used by a diverse set of users by:  
 
-●	Meeting the requirements and following the accessibility guidance set out in the service manual [In-development in BC]  
+●	Meeting the requirements and following the accessibility and inclusion guidance set out in the service manual
 ●	Involving users with a range of impairments in user testing as you develop your services and systems  
 ●	Knowing the range of devices and software that need to work with your technology  
 ●	Enabling access to services through a range of web browsers and ensuring compatibility with assistive technologies and a range of end user devices  
 
 #### Related Guides  
-● [Accessible Government Toolkit] (https://www2.gov.bc.ca/gov/content/home/accessible-government)  	
-● [Equality Act 2010]  
-●	Meeting the accessibility standard  
-●	Meeting compatibility with assistive technologies  
-
-● [Consider whether this is a good place to reference GBA_and similar frameworks]  
+● Accessible Government Toolkit (https://www2.gov.bc.ca/gov/content/home/accessible-government)  	
+●	Meeting the accessibility standard
+●	Meeting compatibility with assistive technologies
 
 ### 3. Follow latest guidance to integrate and adapt technology
-
-[Needs input from common components and HADF]  
 
 Your technology should adapt to future demands and work with existing technologies, processes and infrastructure in your organization.
 
 To meet point 3 of the Technology Code of Practice your plan or design must show how your technology initiative integrates into your organization.
 
 You’ll have to explain how you’re doing this as part of the digital investment process.
-
 
 #### How integration helps your initiative . 
 
@@ -218,21 +202,16 @@ Service management depends on how your current infrastructure is managed, what n
 
 #### Related Guides  
 
-List of [UK] guides on the topics of:  
+[Placeholder]
 
-●	Networking  
-●	Legacy  
-●	Buying technology  
+### 4. Work in the open and reuse existing solutions
 
-### 4. Work in the open and share your technology
-
-Promote good practice by publishing your code openly and sharing your services, data and software components. 
+Improve transparency and reduce duplication by working in the open, reusing existing solutions in government, using open source solutions, and sharing your technology.
 
 [Also consider sharing research and decision-making?]  
 
 To meet point 4 of the Technology Code of Practice your plan or design must show you have considered publishing your code openly and sharing your technology.
 
-You’ll have to explain how you’re meeting point 3 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.
 
 #### How being open will help your initiative  
 
@@ -322,14 +301,6 @@ Read the GOV.UK proposition guide to make sure your content is appropriate for p
 
 [/end UK exemplars]  
 
-### 5. Reuse technology and use open source
-
-Improve transparency and accountability while reducing duplication by reusing technology and using open source.
-
-To meet point 5 of the Technology Code of Practice your plan or design must show you have considered reusing technology and using open source.
-
-You’ll have to explain how you’re meeting point 5 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.
-
 #### How open source differs from open standards  
 Open source is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone.  
 
@@ -374,7 +345,7 @@ Making new source code open by default
 [Ministry of Justice case study - why we code in the open] (https://mojdigital.blog.gov.uk/2017/02/21/why-we-code-in-the-open/)  
 [GDS case study - making the register to vote code open] (https://gdstechnology.blog.gov.uk/2016/01/26/working-out-how-to-open-up-the-register-to-vote-code/)  
 
-### 6. Make use of open standards
+### 5. Make use of open standards
 
 Build technology that uses open standards to ensure your technology works and communicates with other technology, and is easily upgraded and expanded.
 
@@ -411,18 +382,15 @@ Build flexibility into your technology by:
 #### Related guides
 
 [API Guidelines] (https://devhub-static-test-devhub-test.pathfinder.gov.bc.ca/Data-and-APIs/BC-Government-API-Guidelines?intention=LOGIN#error=login_required)  
-[API Registry] (https://catalogue.data.gov.bc.ca/group/bc-government-api-registry)  
-Open Standard Principles  
-Open Standards for government  
-About APIs  
+[API Registry] (https://catalogue.data.gov.bc.ca/group/bc-government-api-registry)
 
-### 7. Use cloud intelligently  
+### 6. Use cloud intelligently  
 
 Use public cloud intelligently as stated in the government’s cloud policy.
 
-To meet point 7 of the Technology Code of Practice your plan or design must show you have considered using the public cloud as stated in the government’s cloud  policy. [Link to in-development policy?]  
+To meet point 6 of the Technology Code of Practice your plan or design must show you have considered using the public cloud as stated in the government’s cloud  policy.
 
-You’ll have to explain how you’re meeting point 7 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.  
+You’ll have to explain how you’re meeting point 6 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.  
 
 #### Summary description of cloud computing  
 
@@ -451,17 +419,16 @@ Follow the cloud policy by:
 ●	Evaluating potential public cloud services before you consider alternatives such as BC On-Prem Hosting, which is a data centre available for all of government, and BC Private Cloud, which is an on-premise container hosting service  
 ●	Demonstrating your chosen service represents the best value for money if selecting an alternative to public cloud - you must also show you’ve allowed for flexibility by being able to change the system and reduce costs over time  
 
-#### Related guides [From UK context]  
+#### Related guides
 
-Assessing a hosting business case  
-BC On-Prem Hosting  
+BC On-Prem Hosting  [placeholder]
 [BC Private Cloud] (https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/BC-Government-OpenShift-Container-Platform-Service-Definition)    
 
-### 8. Make things secure
+### 7. Make things secure
 
 Keep systems and data safe with the appropriate level of security.  
 
-To meet point 8 of the Technology Code of Practice your plan or design must show how you are securing data and systems.  
+To meet point 7 of the Technology Code of Practice your plan or design must show how you are securing data and systems.  
 
 You’ll have to explain how you’re doing this as part of the digital investment process.  
 
@@ -480,46 +447,17 @@ Choose the appropriate level of security for your technology initiative. Conside
 You can protect your data and infrastructure by:  
 
 ●	Following the principles set out in the [Information Security Policy and Guidelines] (https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/information-security-policy-and-guidelines) and [Information Security Classification Standard] (https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-classification)  
-●	Following the [National Cyber Security Centre’s information risk management guidance]  
-●	Designing and implementing the components of your system according to government best practice, including [network principles, security design principles for digital services and securing government email]  
-●	Determining the security requirements of cloud services using the [Cloud security principles] and accompanying guidance  
+#### Related guides
 
-#### Related guides [UK]  
+[placeholder]
 
-Security policy framework
-Network principles
-Security classification policy
-Securing government email
-Security considerations when coding in the open
-NCSC risk management collection
-NCSC security design principles for digital services
-NCSC cloud security principles
-NCSC cloud security collection
-
-### 9. Make privacy integral  
+### 8. Make privacy integral  
 
 Make sure citizens’ rights are protected by integrating privacy as an essential part of your system.  
 
-To meet point 9 of the Technology Code of Practice your plan or design must show how you are considering privacy by design.  
+To meet point 8 of the Technology Code of Practice your plan or design must show how you are considering privacy by design.  
 
 You’ll have to explain how you’re doing this as part of the digital investment process.  
-
-[Following section from UK TCoP left in for purposes of a template for BC]
-
-#### About the EU General Data Protection Regulation  
-The EU General Data Protection Regulation (GDPR) website and the Information Commissioner's Office (ICO) provide information about the GDPR. The Technology Code of Practice summarizes the key points.  
-
-The GDPR will come into force on 25 May 2018. It’s about protecting citizens’ personal data while it is being processed or moved.  
-
-You must be ready to comply with this new regulation and consider the ethical and appropriate use of data and technology.  
-
-GDPR is adopting privacy by design as part of the regulation. There is a legal requirement in the GDPR for the protection of citizens’ data to be included from the start of the design process. GDPR includes upfront penalties for not complying.  
-
-Maintaining the privacy of citizens’ personal data includes security. Privacy also includes how citizens:  
-
-●	Consent to the use of their personal data  
-●	Have the right to have personal data erased  
-●	Have the right to restrict the processing of personal data  
 
 #### How privacy by design will help your initiative
 
@@ -528,39 +466,24 @@ Your technology initiative will benefit from:
 ●	Being proactive about privacy and reducing the risks of data theft  
 ●	Identifying potential privacy issues earlier when they are easier and cheaper to solve  
 ●	Better awareness of privacy issues across the organization  
-●	Adherence to GDPR when it comes into law  
+●	Adherence to legal privacy requirements
 
 #### How to embed privacy by design  
 
-The EU General Data Protection Regulation (GDPR) replaces the Data Protection Directive 95/46/EC. It provides consistency of data privacy laws across Europe.  
-
-The Information Commissioner's Office (ICO) has a self-assessment questionnaire about your organization's readiness in implementing the GDPR. They also have a guide to data protection and suggest using Privacy Impact Assessments (PIAs) as part of your initiative's risk management process. The following questions from the PIA code of practice are useful to consider:  
-
-1.	Will the initiative involve the collection of new information about individuals?  
-2.	Will individuals have to provide information about themselves to the initiative?
-3.	Will information about individuals be disclosed to organizations or people who have not previously had routine access to the information?  
-4.	Are you using information about individuals for a purpose it is not currently used for, or in a way it is not currently used?  
-5.	Does the initiative involve you using new technology that might be perceived as being privacy intrusive? For example, the use of biometrics or facial recognition.  
-6.	Will the initiative result in you making decisions or taking action against individuals in ways that can have a significant impact on them?  
-7.	Is the information about individuals of a kind particularly likely to raise privacy concerns or expectations? For example, health records, criminal records or other information that people would consider to be private.  
-8.	Will the initiative require you to contact individuals in ways that they may find intrusive?  
+[placeholder]
 
 #### Related guides  
-EU General Data Protection Regulation  
-European Commission: Protection of personal data  
-GDPR summary of legislation  
-UK Digital Strategy  
-Data Science Ethical Framework  
 
-[/end UK template]  
+[BC Guide to Good Privacy Practices] (https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/good-privacy-practices)
+[BC Freedom of Information and Protection of Privacy Act] (https://www.bclaws.ca/civix/document/id/complete/statreg/96165_00)
 
-### 10. Make better use of data  
+### 9. Make better use of data  
 
 Consider how to minimize data collection and reuse data to avoid duplication of datasets.  
 
-To meet point 10 of the Technology Code of Practice your plans must show you’ve considered minimizing data collection and duplication.  
+To meet point 9 of the Technology Code of Practice your plans must show you’ve considered minimizing data collection and duplication.  
 
-You’ll have to explain how you’re meeting point 10 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this. 
+You’ll have to explain how you’re meeting point 9 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this. 
 
 #### How minimizing data collection and duplication will help your initiative
 
@@ -592,25 +515,15 @@ When using data your obligations include:
 ●	Understanding best practices for collecting, storing, analysing and sharing data from other departments, other governments and other sectors  
 ●	Keeping data for only as long as necessary, and securely deleting the data when it’s no longer needed  
 
-#### Related guides  
+#### Related guides
 
-[UK] Policies and guidance available includes:  
+[placeholder]
 
-●	Data Science and Ethical Framework  
-●	Publish and use government's open data  
-●	Unlocking the power of data in the UK economy and improving public confidence in its use - part 7 of the UK Digital Strategy  
-●	Making better use of data - part of the Government Transformation Strategy 2017-2020  
-●	Government transformation strategy - better use of data  
-●	Data Protection Act which will be replaced by the EU General Data Protection Regulation (GDPR)  
-●	Using registers to build a service  
-●	Summary of the Better use of data consultation by the Cabinet Office  
-●	Local Government Association - Better use of data  
-
-### 11. Define your purchasing strategy  
+### 10. Define your purchasing strategy  
 
 Your purchasing strategy must show you have considered commercial and technology aspects, and contractual limitations.  
 
-To meet point 11 of the Technology Code of Practice your plan or design must show your sourcing strategy and how your contracts meet government rules and guidelines.  
+To meet point 10 of the Technology Code of Practice your plan or design must show your sourcing strategy and how your contracts meet government rules and guidelines.  
 
 You’ll have to explain how you’re doing this as part of the digital investment process.  
 
@@ -651,11 +564,10 @@ Your sourcing strategy must consider technology approaches that will encourage t
 Find appropriate services and suppliers to avoid lengthy and expensive procurement processes. Work with your departmental commercial team to understand which route is most appropriate. Use approved sourcing routes including:  
 
 ●	The [in-development in BC] Digital Marketplace for technology or people for digital projects  
-●	Technology frameworks available from [UK] Crown Commercial Service  
 
 #### Follow government contractual rules and guidelines  
 
-Contracts must [UK exemplars left in]:  
+Contracts must [UK data left in, to be updated with BC guidance]:  
 
 ●	Not be over £100 million in value – unless there’s an exceptional reason  
 ●	Be explicit about the ownership of government data, including data created through the operation of the service  
@@ -675,15 +587,6 @@ Remember that:
 ●	You cannot automatically extend contracts unless there are extenuating circumstances  
 ●	You should align contract duration to current best practices for the product or service in question  
 
-#### Related guides  
+#### Related guides
 
-Technology service principles  
-Government buying collection . 
-Lean sourcing guidance  
-Technology aggregation opportunities  
-Commercial operating standards for government  
-Public procurement policy  
-Central government spending controls  
-Contract management standards  
-Commercial operating standards for government  
-
+[placeholder]
